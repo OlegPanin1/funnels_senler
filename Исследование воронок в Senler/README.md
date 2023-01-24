@@ -1,6 +1,6 @@
 # Исследование воронок в Senler
 
-Link nbviewer.org: https://nbviewer.org/github/OlegPanin1/work_projects/blob/main/Исследование%20воронок%20в%20Senler/Исследование%20воронок%20в%20Senler.ipynb
+Проект на nbviewer.org: https://nbviewer.org/github/OlegPanin1/work_projects/blob/main/Исследование%20воронок%20в%20Senler/Исследование%20воронок%20в%20Senler.ipynb
 
 ## Введение
 
