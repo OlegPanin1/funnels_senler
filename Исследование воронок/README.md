@@ -1,4 +1,4 @@
-# Исследование воронок в Senler
+# Исследование воронок 
 
 Проект на nbviewer.org: https://nbviewer.org/github/OlegPanin1/work_projects/blob/0edb6b8b476748e8bbe6402acc9aefddd1255893/Исследование%20воронок%20в%20Senler/Исследование%20ворoнок.ipynb
 
