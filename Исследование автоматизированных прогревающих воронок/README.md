@@ -1,6 +1,6 @@
 # Исследование автоматизированных прогревающих воронок
 
- [Проект на nbviewer.org](https://nbviewer.org/github/OlegPanin1/work_projects/blob/585b8249ee8e10aaead4ab1bacaf23efbdd774c0/Исследование%20автоматизированных%20прогревающих%20воронок/Исследование%20воронок.ipynb)
+ [Проект с визуализацией Plotly](https://nbviewer.org/github/OlegPanin1/work_projects/blob/585b8249ee8e10aaead4ab1bacaf23efbdd774c0/Исследование%20автоматизированных%20прогревающих%20воронок/Исследование%20воронок.ipynb)
 
 ## Введение
 
